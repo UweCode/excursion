@@ -1,12 +1,12 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-family: Verdana sans-serif;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 a.downloadLink {
