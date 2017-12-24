@@ -4,12 +4,40 @@ body {
 }
 
 h1 {
-  font-family: Verdana sans-serif;
-  font-size: 50px;
   color: white;
+  font-family: Verdana, sans-serif;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#phone {
+  margin-top: 40px;
 }
 
 a.downloadLink {
   color: aquamarine;
   font-size: 16px;
+}
+
+#copyright {
+  color: gray;
+  margin-right: 6px;
+  text-align: right;
 }
